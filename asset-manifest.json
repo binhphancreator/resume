@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.a3accb61.chunk.css",
+    "main.js": "/resume/static/js/main.5d92f481.chunk.js",
+    "main.js.map": "/resume/static/js/main.5d92f481.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.d0e1ebf4.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.d0e1ebf4.js.map",
+    "static/js/2.0c876e01.chunk.js": "/resume/static/js/2.0c876e01.chunk.js",
+    "static/js/2.0c876e01.chunk.js.map": "/resume/static/js/2.0c876e01.chunk.js.map",
+    "static/js/3.a3458ec7.chunk.js": "/resume/static/js/3.a3458ec7.chunk.js",
+    "static/js/3.a3458ec7.chunk.js.map": "/resume/static/js/3.a3458ec7.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "static/css/main.a3accb61.chunk.css.map": "/resume/static/css/main.a3accb61.chunk.css.map",
+    "static/js/2.0c876e01.chunk.js.LICENSE.txt": "/resume/static/js/2.0c876e01.chunk.js.LICENSE.txt",
+    "static/media/avatar.jpg": "/resume/static/media/avatar.37e83262.jpg",
+    "static/media/c.svg": "/resume/static/media/c.d97faed3.svg",
+    "static/media/cocos.png": "/resume/static/media/cocos.50016438.png",
+    "static/media/coding.svg": "/resume/static/media/coding.5245d74c.svg",
+    "static/media/figma.svg": "/resume/static/media/figma.0f4098dc.svg",
+    "static/media/github.svg": "/resume/static/media/github.f4f2ddb6.svg",
+    "static/media/illustrator.svg": "/resume/static/media/illustrator.a57480b4.svg",
+    "static/media/java.svg": "/resume/static/media/java.dc910d5a.svg",
+    "static/media/jobforest.png": "/resume/static/media/jobforest.bcf31d03.png",
+    "static/media/js.png": "/resume/static/media/js.266bd9fb.png",
+    "static/media/laravel.svg": "/resume/static/media/laravel.d0cb2f2a.svg",
+    "static/media/nuxt.svg": "/resume/static/media/nuxt.92fcc312.svg",
+    "static/media/photoshop.svg": "/resume/static/media/photoshop.21b3c1e0.svg",
+    "static/media/php-logo.svg": "/resume/static/media/php-logo.8a27be18.svg",
+    "static/media/react.svg": "/resume/static/media/react.928f956d.svg",
+    "static/media/swirly-arrow.svg": "/resume/static/media/swirly-arrow.3aa382d4.svg",
+    "static/media/turn-right-arrow.svg": "/resume/static/media/turn-right-arrow.7734599a.svg",
+    "static/media/vue.svg": "/resume/static/media/vue.a5217e60.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0e1ebf4.js",
+    "static/js/2.0c876e01.chunk.js",
+    "static/css/main.a3accb61.chunk.css",
+    "static/js/main.5d92f481.chunk.js"
+  ]
+}
