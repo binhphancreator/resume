@@ -13,27 +13,27 @@ function Skills(){
                             <div className="p-4 rounded-md shadow-md h-full">
                                 <h2 className="text-center text-gray-700 text-3xl font-medium mb-4">Ngôn ngữ lập trình</h2>
                                 <div className="md:w-auto w-full flex flex-wrap justify-center">
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/java.svg').default} alt="" />
                                         <p className="text-gray-700 font-medium">Java</p>
                                     </div>
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/c.svg').default} alt="" />
                                         <p className="text-gray-700 font-medium">C++</p>
                                     </div>
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/html.png').default} alt="" />
                                         <p className="text-gray-700 font-medium">HTML</p>
                                     </div>
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/CSS3.png').default} alt="" />
                                         <p className="text-gray-700 font-medium">CSS</p>
                                     </div>
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/js.png').default} alt="" />
                                         <p className="text-gray-700 font-medium">Javascript</p>
                                     </div>
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/php-logo.svg').default} alt="" />
                                         <p className="text-gray-700 font-medium">PHP</p>
                                     </div>
@@ -44,27 +44,27 @@ function Skills(){
                             <div className="p-4 rounded-md shadow-md">
                                 <h2 className="text-center text-gray-700 text-3xl font-medium mb-4">Framework</h2>
                                 <div className="flex flex-wrap justify-center">
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/vue.svg').default} alt="" />
                                         <p className="text-gray-700 font-medium">Vue.js</p>
                                     </div>
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/react.svg').default} alt="" />
                                         <p className="text-gray-700 font-medium">React</p>
                                     </div>
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/nuxt.svg').default} alt="" />
                                         <p className="text-gray-700 font-medium">Nuxt</p>
                                     </div>
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/laravel.svg').default} alt="" />
                                         <p className="text-gray-700 font-medium">Laravel</p>
                                     </div>
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/java.svg').default} alt="" />
                                         <p className="text-gray-700 font-medium">JavaFx</p>
                                     </div>
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8 object-cover" src={require('../asset/img/cocos.png').default} alt="" />
                                         <p className="text-gray-700 font-medium">Cocos Creator</p>
                                     </div>
@@ -75,19 +75,19 @@ function Skills(){
                             <div className="p-4 rounded-md shadow-md">
                                 <h2 className="text-center text-gray-700 text-3xl font-medium mb-4">Công cụ khác</h2>
                                 <div className="flex flex-wrap justify-center">
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/photoshop.svg').default} alt="" />
                                         <p className="text-gray-700 font-medium">Photoshop</p>
                                     </div>
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/illustrator.svg').default} alt="" />
                                         <p className="text-gray-700 font-medium">Illustrator</p>
                                     </div>
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/figma.svg').default} alt="" />
                                         <p className="text-gray-700 font-medium">Figma</p>
                                     </div>
-                                    <div className="flex p-2 space-x-2 flex-col items-center rounded-full">
+                                    <div className="flex p-2 flex-col items-center rounded-full">
                                         <img className="w-8 h-8" src={require('../asset/img/github.svg').default} alt="" />
                                         <p className="text-gray-700 font-medium">GitHub</p>
                                     </div>
